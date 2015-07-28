@@ -1,0 +1,11 @@
+{
+    "imageActionName": "uploadimage",
+    "imageManagerActionName": "listimage",
+    "imageUrl": "http://localhost:3000/ueditor/ue?action=uploadimage",
+    "imagePathFormat": "/public/images/{filename}",
+    "imageUrlPrefix": "http://localhost:3000",
+    "imageManagerUrlPrefix": "http://localhost:3000",
+    "imageFieldName": "upfile",
+    "imageMaxSize": 2048,
+    "imageAllowFiles": [".png", ".jpg", ".jpeg", ".gif", ".bmp"]
+}
